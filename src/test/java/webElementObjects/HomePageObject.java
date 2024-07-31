@@ -27,7 +27,7 @@ public class HomePageObject
 	{
 		List<WebElement>ite=driver.findElements(socials);
 		
-		System.out.println("***Social links are***");
+		System.out.println("******Social links are******");
 		
 		for(WebElement i:ite) 
 		{
